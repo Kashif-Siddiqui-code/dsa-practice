@@ -44,6 +44,7 @@ Each problem includes:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/2491-smallest-even-multiple) |
 ## Simulation
 |  |
 | ------- |
@@ -52,4 +53,5 @@ Each problem includes:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
