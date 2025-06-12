@@ -45,6 +45,7 @@ Each problem includes:
 | ------- |
 | [0258-add-digits](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/2507-number-of-common-factors) |
 ## Simulation
 |  |
 | ------- |
@@ -54,4 +55,9 @@ Each problem includes:
 | ------- |
 | [0258-add-digits](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/2507-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
