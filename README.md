@@ -15,8 +15,10 @@ Each problem includes:
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
