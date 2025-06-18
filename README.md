@@ -8,3 +8,15 @@ Each problem includes:
 - My Java solution
 - (Optional) A short explanation in comments
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+<!---LeetCode Topics End-->
