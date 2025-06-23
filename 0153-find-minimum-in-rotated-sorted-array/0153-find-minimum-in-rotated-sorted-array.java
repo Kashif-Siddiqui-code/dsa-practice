@@ -2,20 +2,29 @@ class Solution {
     public int findMin(int[] nums) {
         int start = 0;
         int end = nums.length - 1;
+        int ans = Integer.MAX_VALUE;
 
-        while (start < end) {
+        while (start <= end) {
             int mid = start + (end - start) / 2;
 
-            if (nums[mid] > nums[end]) {
-                // Minimum is in the right half
-                start = mid + 1;
-            } else {
-                // Minimum is in the left half including mid
-                end = mid;
+            if(nums[start] <= nums[end]){
+                ans = Math.min(ans, nums[start]);
+                break;
             }
-        }
 
-        return nums[start];
+            if(nums[start] <= nums[mid]){
+                ans = Math.min(ans, nums[start]);
+                start = mid + 1;
+            }
+            else{
+                end = mid - 1;
+                ans = Math.min(ans, nums[mid]);
+            }
+          
+        }
+        return ans;
+
+        
     }
     
 }
