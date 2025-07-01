@@ -33,4 +33,8 @@ Each problem includes:
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
