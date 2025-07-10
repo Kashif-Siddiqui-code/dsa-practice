@@ -43,6 +43,7 @@ Each problem includes:
 | ------- |
 | [0009-palindrome-number](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0069-sqrtx) |
+| [1013-fibonacci-number](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -60,4 +61,16 @@ Each problem includes:
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
