@@ -80,4 +80,12 @@ Each problem includes:
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
