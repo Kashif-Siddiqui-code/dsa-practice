@@ -70,9 +70,14 @@ Each problem includes:
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/1013-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
