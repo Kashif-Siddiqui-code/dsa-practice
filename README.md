@@ -14,6 +14,7 @@ Each problem includes:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0035-search-insert-position) |
@@ -88,4 +89,8 @@ Each problem includes:
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
