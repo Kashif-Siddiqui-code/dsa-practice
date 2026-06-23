@@ -73,6 +73,7 @@ Each problem includes:
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -82,6 +83,7 @@ Each problem includes:
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
