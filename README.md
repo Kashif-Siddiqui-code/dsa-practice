@@ -90,10 +90,15 @@ Each problem includes:
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0217-contains-duplicate) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
