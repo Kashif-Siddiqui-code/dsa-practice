@@ -85,11 +85,13 @@ Each problem includes:
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0344-reverse-string](https://github.com/Kashif-Siddiqui-code/dsa-practice/tree/master/0344-reverse-string) |
 ## String
 |  |
