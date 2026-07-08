@@ -5,6 +5,7 @@
  *     struct ListNode *next;
  * };
  */
+ // Two Pointer - Fast and Slow Method
 struct ListNode* middleNode(struct ListNode* head) {
     struct ListNode *fast = head;
     struct ListNode *slow = head;
